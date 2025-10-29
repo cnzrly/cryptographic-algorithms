@@ -1,3 +1,5 @@
+package vigenere_algorithm;
+
 public class VigenereCipher {
     private static final String ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
     private static final int RANGE = ALPHABET.length();
